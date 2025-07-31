@@ -2,7 +2,7 @@
 2D Environmental Mapping System
 
 A radar‑style 2D environmental mapping project using ESP32, ultrasonic (HC‑SR04), and LiDAR sensors (TFmini Plus, VL53L0X).
-The system rotates sensors with a stepper motor (28BYJ‑48) to scan the surroundings, collect real‑time distance data, and visualize the environment on a PC.
+The system rotates sensors with a stepper motor (28BYJ‑48) to scan the surroundings, collect real‑time distance data, and visualize the environment on a PC or laptop.
 Written in C++, the project compares sensor performance and demonstrates environmental mapping for robotics and IoT applications.
 
 Features:
